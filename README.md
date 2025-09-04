@@ -1,2 +1,2 @@
 # practice_life
-practicing dlask and web apps
+practicing flask and web apps
